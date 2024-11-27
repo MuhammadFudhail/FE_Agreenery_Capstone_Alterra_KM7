@@ -4,6 +4,7 @@ function App() {
   return (
     <>
     <h1>Ini dari branch feature login register</h1>
+    <h1>Ini dari branch feature/landing-page</h1>
     <Router>
       {/* Navbar Taruh di Apps <Navbar/> */}
       <Routes>
